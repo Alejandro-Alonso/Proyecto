@@ -1,0 +1,71 @@
+body,h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
+}
+.navbar-brand{
+  font-size: 2em;
+}
+.titulo{
+  font-size: 4.5em;
+}
+.titulo-secciones{
+  font-size: 3em;
+  letter-spacing: 0.2em;
+}
+.fondo{
+  height: 100vh;
+  width: 50%;
+  max-width: 100%;
+  background: url(../img/fondo.jpg)center;
+  background-size: cover;
+  float: right;
+  clear: both;
+}
+
+/* lugares */
+#lugares{
+  width: 100%;
+  background: #f5f5f5;
+  height: 100%;
+  margin-top: 23em;
+}
+
+.titulo-secciones{
+  letter-spacing: 5px;
+  font-size: 3.5em;
+  text-transform: uppercase;
+}
+
+/* .contacto{
+  width: 100%;
+  height: 100vh;
+  background: url(../img/contacto.jpg)center;
+  background-size: cover;
+}
+.opacidad{
+  width: 100%;
+  background: rgba(31, 113, 173, 0.21);
+  height: 100%;
+} */
+
+/* LUGARES */
+.titulos{
+  font-size: 3.2em;
+}
+.navbar-brand {
+  color: #69C59D!important;
+}
+
+
+
+/* Media Queris */
+
+@media (max-width: 700px){
+  .fondo{
+    display: none;
+  }
+  .titulo{
+    font-size:3em;
+  }
+
+}

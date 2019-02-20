@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="416" viewBox="0 0 480 416">
+  <g id="_004-camera" data-name="004-camera" transform="translate(0 -32)">
+    <g id="Grupo_50" data-name="Grupo 50">
+      <g id="Grupo_49" data-name="Grupo 49">
+        <path id="Trazado_35" data-name="Trazado 35" d="M296,144A104,104,0,1,0,400,248,104.112,104.112,0,0,0,296,144Zm0,192a88,88,0,1,1,88-88A88,88,0,0,1,296,336Z" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Grupo_52" data-name="Grupo 52">
+      <g id="Grupo_51" data-name="Grupo 51">
+        <path id="Trazado_36" data-name="Trazado 36" d="M236.688,32l-48,48H176V48H112V80H96V48H16V80H0V448H480V32ZM128,64h32V80H128ZM32,64H80V80H32ZM464,432H16V416H464Zm0-32H16V160H192.5A136,136,0,1,0,399.5,160H464ZM296,128A120,120,0,1,1,176,248,120.136,120.136,0,0,1,296,128Zm168,16H384v.5a135.408,135.408,0,0,0-176,0V144H16V96H195.312l48-48H464Z" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Grupo_54" data-name="Grupo 54">
+      <g id="Grupo_53" data-name="Grupo 53">
+        <path id="Trazado_37" data-name="Trazado 37" d="M352,248a56.064,56.064,0,0,1-56,56v16a72.08,72.08,0,0,0,72-72Z" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Grupo_56" data-name="Grupo 56">
+      <g id="Grupo_55" data-name="Grupo 55">
+        <path id="Trazado_38" data-name="Trazado 38" d="M384,64v48h64V64Zm48,32H400V80h32Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
